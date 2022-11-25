@@ -1,0 +1,8 @@
+.degardc-th{
+    width: 100px !important;
+}
+
+.degardc-blur-input:not(:focus) {
+    color: transparent;
+    text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
